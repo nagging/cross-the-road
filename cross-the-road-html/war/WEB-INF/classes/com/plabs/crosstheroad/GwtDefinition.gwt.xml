@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <entry-point class="com.plabs.crosstheroad.client.GwtLauncher"/>
+    <set-configuration-property name="gdx.assetpath" value="../cross-the-road-android/assets"/>
+    <inherits name="CrossTheRoad"/>
+    <inherits name="com.badlogic.gdx.backends.gdx_backends_gwt"/>
+</module>

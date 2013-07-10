@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="64" height="16" tilewidth="32" tileheight="32" backgroundcolor="#aaff00">
+ <tileset firstgid="1" name="magecity" tilewidth="32" tileheight="32">
+  <image source="magecity.png" width="256" height="1450"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="64" height="16">
+  <data encoding="base64" compression="zlib">
+   eJzt0isOAjEUheF2FeBgEewBySKQSMLDDGB4GB6Gx1ZgFKCG0YACFLAN/gkjx5SUTsUVX9qkt8k5abVSSgshctdCGx10Pcjzqy12CA3vBeihj4HjzHWLs3sccDTMMMQIY0wc929Ymk3ePsIJsTL7A1PMMMfCcf+mpdnk7Stsqvq7mvyBJVZYY+O4vy1R2r+W9o89yOTaGRdcPciShxvueGScFVD0IOM/PfHCO+OshLIHGYUQ4gN7PiXP
+  </data>
+ </layer>
+</map>
